@@ -1,0 +1,2 @@
+# hexoFile
+hexo configuration

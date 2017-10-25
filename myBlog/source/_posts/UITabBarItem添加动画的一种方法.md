@@ -7,7 +7,7 @@ tags:
 
 最近项目考虑到可能对APP的TabBarItem添加动画，使得界面更多的展现出高大上的感觉/(ㄒoㄒ)/~~ 虽然我感觉然并卵。不过我还是想办法尝试一下，如何给TabBarItem添加动画。
 首先来看一下效果：
-![](/assets/blogImg/tabbar_animate1.gjf)
+![](/assets/blog/tabbar_animate1.gif)
 接下来说一下实现方法。
 
 ### 1.自定义UITabBarController
